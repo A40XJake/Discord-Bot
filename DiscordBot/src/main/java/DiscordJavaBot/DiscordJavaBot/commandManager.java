@@ -260,7 +260,7 @@ public class commandManager extends ListenerAdapter {
 		if (event.getAuthor().isBot()) {
 			return;
 		} else if (message.contains("Bing") || message.contains("bing")) {
-			event.getChannel().sendMessage("Bing bong, fuck ya life!").queue();
+			event.getChannel().sendMessage("Bing bong, duck ya life!").queue();
 		}
 	}
 
