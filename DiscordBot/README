@@ -1,0 +1,7 @@
+Hello this is my Discord Bot for my personal server.
+In order to run the project you must run the Bot class. You also need to ethier use an ENV file 
+and make a line with a discord token like so, "TOKEN=discordtoken". Or in the Bot class replace the 
+TOKEN variable with your discord token for your bot. This is an ongoing project and I plan to add more features 
+in the future and upload my bot to cloud so it can be invited to more servers when I have more features available.
+
+TL;DR use the Bot class to run the bot on your local JDE and replace TOKEN in bot with your server Token. This project was made with Java and Maven.
