@@ -4,4 +4,5 @@ and make a line with a discord token like so, "TOKEN=discordtoken". Or in the Bo
 TOKEN variable with your discord token for your bot. This is an ongoing project and I plan to add more features 
 in the future and upload my bot to cloud so it can be invited to more servers when I have more features available.
 
-TL;DR use the Bot class to run the bot on your local JDE and replace TOKEN in bot with your server Token. This project was made with Java and Maven.
+TL;DR use the Bot class to run the bot on your local JDE and replace TOKEN in bot with your server Token. Remember to invite Bot to your server.
+This project was made with Java and Maven.
